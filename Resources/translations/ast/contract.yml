@@ -1,7 +1,14 @@
 ---
+contract-accounts_title: 'Cuentes bancaries del proyeutu'
+contract-bank_account: 'Cuenta bancaria (códigu IBAN, formatu ESxx xxxx xxxx xxxx xxxx xxxx):'
+contract-bank_owner: 'Titular de la cuenta bancaria:'
+contract-field-reg_idname_2: 'Nome del notariu'
+contract-field-reg_name_1: 'Rexistru nel que s''inscribió l''asocación'
+contract-field-reg_name_2: 'Rexistru nel que ta inscrita la entidá'
 contract-field-reg_number_1: 'Númberu de rexistru'
 contract-field-reg_number_2: 'Númberu d''inscripción nel rexistru (completu):'
 contract-field-regdata: 'Datos de rexistru'
+contract-paypal_owner: 'Titular de la cuenta PayPal:'
 contract-step-accounts: Cuentes
 contract-step-documents: Documentación
 contract-step-entity: 'Entidá xurídica'
