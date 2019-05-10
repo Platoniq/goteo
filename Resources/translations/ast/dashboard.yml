@@ -77,6 +77,7 @@ all-files-uploaded: "Tolos ficheros xubiéronse correutamente"
 uploaded-ok: "Xubióse correutamente"
 publish-confirm-yes: "¿Quies espublizar esta entrada?"
 dashboard-project-support-responses: Rempuestes
+dashboard-message-donors-donors: 'Tolos cofinanciadores que'
 dashboard-message-donors-pending: 'tán pendientes'
 dashboard-message-donors-total: '%s cofinanciadores'
 dashboard-message-no-message: 'Entá nun tienes dengún mensaxe.'
