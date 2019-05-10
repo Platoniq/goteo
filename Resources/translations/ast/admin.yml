@@ -52,6 +52,7 @@ admin-projects: Proyeutos
 admin-consultants: 'Asesores'
 admin-filters: 'Peñeres'
 admin-remove-filters: 'Quitar peñeres'
+admin-remove-entry-confirm: '¿De xuru que quies desaniciar esta entrada? ¡Esta aición nun pue desfacese!'
 admin-services: Servicios
 admin-sponsors: Servicios
 admin-summary: Resume
@@ -101,7 +102,9 @@ admin-title-status: Estáu
 admin-stats-raised: 'Ingresos brutos'
 admin-stats-active: 'Ingresos netos'
 admin-stats-refunded: 'Devoluciones'
+admin-stats-citizens-part: 'Parte Ciudadana'
 admin-commissions: Comisión
+admin-user-fee: Comisión ciudadana
 admin-vat: IVA
 admin-total: Total
 admin-today: Güei
