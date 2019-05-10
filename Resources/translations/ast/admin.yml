@@ -67,16 +67,29 @@ admin-user-no-projects: 'Entá nun se creó dengún proyeutu'
 admin-user-no-invests: 'Entá nun se fizo denguna donación'
 admin-users: Usuarios
 admin-blog: Blogue xeneral
+admin-blog-slug-exists: 'º'
+admin-blog-slug-chars: '¡L''identificador [%s] contién caráuteres que nun son válidos!'
+admin-blog-not-public: 'Esti artículu entá nun s''espublizó'
+admin-stories: Histories d'usuarios en Goteo
 admin-categories: 'Estayes y ámbitos'
 admin-calls: Convocatories
 admin-channels: Canales
 admin-yes: Sí
+admin-project-express-discard: 'Refugu nel intre'
 admin-project-to-review: 'A revisión'
 admin-project-to-negotiation: 'A negociación'
 admin-project-to-publish: 'Espublizar'
 admin-project-derivation-discard: 'Refugu con derivación'
+admin-home-title: Alministrar Goteo
 admin-stats: Estadístiques
 admin-list-total: 'Total: <strong>%s</strong> resultaos'
+admin-search-global: 'Proyeutu, canal, convocatoria...'
+admin-rebase-user: 'Camudar l''ID d''usuariu'
+admin-show-roles-info: '¿Qué pue facer cada rol?'
+admin-view-user-projects: 'Tolos proyeutos'
+admin-user-no-mailing: 'Entá nun se-y unvió dengún corréu'
+admin-view-user-mailing: 'Tolos unvios'
+admin-title-id: ID
 admin-title-name: Nome
 admin-title-about: Información
 admin-title-fullname: Nome
@@ -94,11 +107,14 @@ admin-title-actions: Aiciones
 admin-title-tags: Etiquetes
 admin-title-sphere: Ámbitu
 admin-title-social_commitment: Compromisu social
+admin-title-sdgs: 'Oxetivos de Desendolcu Global'
 admin-title-footprints: 'Buelgues'
 admin-title-categories: 'Estayes'
 admin-title-social_commitments: 'Compromisos sociales'
 admin-title-order: Ordenar
 admin-title-status: Estáu
+admin-aggregate-timeline: 'Llinia temporal'
+admin-stats-project-totals: 'Estáu de los proyeutos'
 admin-stats-raised: 'Ingresos brutos'
 admin-stats-active: 'Ingresos netos'
 admin-stats-refunded: 'Devoluciones'
