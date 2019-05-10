@@ -119,9 +119,14 @@ admin-stats-raised: 'Ingresos brutos'
 admin-stats-active: 'Ingresos netos'
 admin-stats-refunded: 'Devoluciones'
 admin-stats-citizens-part: 'Parte Ciudadana'
+admin-stats-in_wallet: 'Nel monederu'
 admin-commissions: Comisión
 admin-user-fee: Comisión ciudadana
 admin-vat: IVA
+admin-the_day: El día
+admin-the_week: La selmana
+admin-the_month: El mes
+admin-the_year: L'añu
 admin-total: Total
 admin-today: Güei
 admin-yesterday: Ayeri
