@@ -1,6 +1,11 @@
 ---
+api-key-no-generated: 'Aínda non tes unha chave xerada'
+api-key-tool-tip: 'Co teu usuario e Api Key poderás realizar consultas á nosa API'
 api-key-documentation: 'Ver a documentación da API'
 api-key-user: 'Usuario'
+api-key-key: 'Chave'
+api-key-generate-new: 'Xerar unha nova chave'
+api-key-generate-new-confirm: 'Esta acción eliminará a chave actual e xerará unha nova. Continuar?'
 contract-data_title: 'Datos do contrato'
 dashboard-certificates-confirm: 'Confirmar datos'
 dashboard-certificates-confirmed: Confirmado
@@ -12,6 +17,7 @@ dashboard-certificates-no-pending: 'Sen achega pendente'
 dashboard-certificates-pending: Pendente
 dashboard-certificates-pending-desc: 'Estas son as achegas a incluír en certificados futuros.'
 dashboard-certificates-summary: 'Certificado %ID%, Ano %YEAR%'
+dashboard-certificates-too-old: 'Este certificado e antigo de máis e non é posíbel modificalo. Se tes algunha dubida, contacta connosco'
 dashboard-chart-days: 'QUEDAN %s DÍAS'
 dashboard-chart-invested: 'FINANCIAMENTO ACADADA'
 dashboard-chart-investors: COFINANCIADORES
