@@ -196,3 +196,5 @@ dashboard-translate-project-empty: 'Aínda non hai traducións para este proxect
 dashboard-translate-project-currents: 'O idioma orixinal deste proxecto é o %LANG% e está traducido a %NUM% idiomas:'
 dashboard-translate-project-translating: 'Estás a traducir este proxecto ao %LANG%. O idioma orixinal é o %ORIGINAL%.'
 dashboard-translate-project-ok: '%ZONE% traducido de xeito correcto ao %LANG%'
+dashboard-project-updates-translate-ok: 'Publicación %TITLE% traducida de xeito correcto ao %LANG%'
+dashboard-translate-costs: 'Traducir os custos do proxecto'
