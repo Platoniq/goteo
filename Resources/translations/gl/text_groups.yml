@@ -18,8 +18,10 @@ text-group-error: 'Erros catastróficos'
 text-group-faq: 'Páxina de FAQ'
 text-group-feed: 'Eventos recentes'
 text-group-footer: Pé
+text-group-form: 'Xerais do formulario do proxecto'
 text-group-general: 'Propósito xeral'
 text-group-home: Portada
+text-group-invest: 'Páxina para facer achegas a un proxecto'
 text-group-location: Xeolocalización
 text-group-login: 'Páxina de inicio de sesión'
 text-group-mailer: 'Correos automáticos'
@@ -33,6 +35,7 @@ text-group-profile: 'Xestión do perfil de usuario'
 text-group-project: 'Proxecto, público e formulario'
 text-group-public_profile: 'Páxina do perfil de usuario'
 text-group-register: 'Rexistro de usuarios'
+text-group-review: 'Panel revisor'
 text-group-social: 'Contas nas redes sociais'
 text-group-supports: 'Colaboracións do proxecto'
 text-group-text_groups: 'Descricións das agrupacións de textos'
