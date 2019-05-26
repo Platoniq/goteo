@@ -60,6 +60,7 @@ admin-mailing-status: 'Automatic delivery status'
 admin-mailing-subject: Subject
 admin-mailing-view-and-activate: 'See the post admin to start sending'
 admin-mailing-view-in-newsletter: 'See the post admin'
+admin-mailing-view-in-sent: 'View of shipping history (statistics)'
 admin-mailing-view-message: 'View message'
 admin-newsletter-generated: 'Newsletter [%ID%] generated'
 admin-newsletter-langs-to-send: 'Languages: %LANGS%'
@@ -119,6 +120,7 @@ admin-sdg-add: Create a new ODS
 admin-sdg-edit: Editing ODS %s
 admin-footprint-add: Create a new footprint
 admin-footprint-edit: Editing footprint %s
+admin-calls: Announcements
 admin-matchers: Matchers
 admin-channels: Channels
 admin-yes: "Yes"
@@ -215,4 +217,6 @@ admin-all-call-referers: 'Origin of visits to matchfunding pages'
 admin-all-project-devices: 'Device used on project pages'
 admin-all-invests-devices: 'Device used in successful contributions to projects'
 admin-all-call-devices: 'Device used on matchfunding pages'
+admin-aggregate-timeline: 'Timeline'
 admin-stats-refunded: 'Returns'
+admin-stats-matchfunding-part: 'Projects with Matchfunding'
